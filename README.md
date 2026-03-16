@@ -21,6 +21,6 @@
                         
 ```
 
-Currently trying to learn Rust in various forms that aren't working, and perpetually enslaved by my ricing.
+Currently trying to learn programming in various forms that aren't working, and perpetually enslaved by my ricing.
 
 code::stats: https://codestats.net/users/Crocodile
